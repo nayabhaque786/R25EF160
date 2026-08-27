@@ -2,3 +2,7 @@ Hi, my name is Nayab Nehal Haque. I am currently studying Computer Science and t
 Learning Python
 cloud computing
 contribute to open source
+
+## Projects
+- Portfolio Website: A personal site showcasing my work.
+- Todo App: A simple app to manage daily tasks.
